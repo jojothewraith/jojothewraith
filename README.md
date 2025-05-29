@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello, I'm jojothewraith
 
-<!--
-**jojothewraith/jojothewraith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a self-taught **penetration tester** and cybersecurity learner.  
+Currently focused on web application security and hands-on labs.
+---
+## 🛠️ Tools & Skills
+- Python scripting
+- Burp Suite, Nmap, Nikto
+- OWASP Top 10 knowledge
+- Practicing on TryHackMe and PentesterLab
+---
+## 🚧 Projects (Coming Soon)
+- 🔍 Subdomain scanner (Python)
+- 🛡️ Basic Auth brute-force script
+- ✍️ Write-ups on XSS, IDOR, SQLi
+---
+## 🎯 Learning Platforms
+- [TryHackMe](https://tryhackme.com/)
+- [PentesterLab](https://pentesterlab.com/)
+- [Hack The Box](https://www.hackthebox.com/)
+---
+## 📫 Contact
+- Email: 
